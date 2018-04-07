@@ -1,4 +1,0 @@
-bot specs:
-	akcan
-	lilith
-	fyfy querr
