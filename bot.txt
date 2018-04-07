@@ -1,2 +1,4 @@
 bot specs:
-	saffa
+	akcan
+	lilith
+	fyfy querr
